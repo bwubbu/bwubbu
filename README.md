@@ -6,7 +6,7 @@
   
 <div align="center">
   
-![goomba](https://i.imgur.com/UA2qy0H.gif)
+![ogayu](https://tenor.com/bxyFQ.gif)
 
 Property                 | Data  
 -------------------------|------
@@ -16,4 +16,7 @@ Experience               | <div align="center">![Computer Science Development Ba
 Music                    | <div align="center">[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/xqzemzb4xypor48msa5xivo3b) ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 Game Profiles            | <div align="center">![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/kyrodahero) 
 Socials                  | <div align="center">[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/414823994777403392) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bwubbuu/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudzaidan-rosdi-6156a0213/) [![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/bwubbuu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC6dyqgQ9HciIBiJ7GcANn8w)
-  
+
+<div align="center">
+
+![goomba](https://i.imgur.com/UA2qy0H.gif)
