@@ -1,12 +1,12 @@
 <h3 align="center">
-  こんにちは!
+  こんにちは! わたしは　ぶるぶ　です！
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   
 ---
   
 <div align="center">
-  
-![ogayu](https://imagizer.imageshack.com/img922/8706/gwCLHE.gif)
+
+<img src="https://imagizer.imageshack.com/img922/8706/gwCLHE.gif" width="350">
 
 Property                 | Data  
 -------------------------|------
@@ -19,4 +19,4 @@ Socials                  | <div align="center">[![Discord](https://img.shields.i
 
 <div align="center">
 
-![goomba](https://i.imgur.com/UA2qy0H.gif)
+<img src="https://i.imgur.com/UA2qy0H.gif" width="120">
