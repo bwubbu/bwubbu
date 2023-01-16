@@ -7,6 +7,8 @@
 <div align="center">
 
 <img src="https://imagizer.imageshack.com/img922/8706/gwCLHE.gif" width="350">
+  
+---
 
 Property                 | Data  
 -------------------------|------
