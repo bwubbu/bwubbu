@@ -6,7 +6,7 @@
   
 <div align="center">
   
-![ogayu](https://tenor.com/bxyFQ.gif)
+![ogayu](https://imagizer.imageshack.com/img922/8706/gwCLHE.gif)
 
 Property                 | Data  
 -------------------------|------
