@@ -22,6 +22,6 @@ Socials                  | [![Discord](https://img.shields.io/badge/Discord-%235
 ------
 
 <p align= "center">
-<img height= "150" src="https://github-readme-stats.vercel.app/api?username=bwubbu&theme=react&show_icons=true&include_all_commits=true" />
+![Blub's GitHub stats](https://github-readme-stats.vercel.app/api?username=bwubbu&show_icons=true&theme=tokyonight)
 <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwubbu&theme=react&layout=compact" />
 </p>
