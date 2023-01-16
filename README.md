@@ -22,3 +22,6 @@ Socials                  | <div align="center">[![Discord](https://img.shields.i
 <div align="center">
 
 <img src="https://i.imgur.com/UA2qy0H.gif" width="120">
+  
+
+<div align="center">smol goomba<br/>
