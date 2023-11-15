@@ -20,6 +20,7 @@
 - :seedling: &nbsp; Year 2 Software Engineering
 - ⌨️ &nbsp; I like building keyboards
 - 🎮 &nbsp; Codes videogames on my free time
+- ☁️ &nbsp; Currently interested in AWS & Google Cloud
 - :computer: &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/rudzaidan-rosdi-6156a0213)
   
 ---
