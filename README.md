@@ -13,8 +13,8 @@
   <img src="https://github.com/bwubbu/bwubbu/assets/101506741/05550859-194d-40be-b2c2-9f287a691ce2.gif" alt="fuwamoco" align="right" />
 </a>
 
-- 🏫 &nbsp; Currently studying in Uni Malaya
-- :seedling: &nbsp; Year 2 Software Engineering
+- 🏫 &nbsp; University of Malaya + Yokohama National University
+- :seedling: &nbsp; Software Engineer
 - ⌨️ &nbsp; I like building keyboards
 - 🎮 &nbsp; Codes videogames on my free time
 - ☁️ &nbsp; Currently interested in AWS & Google Cloud
